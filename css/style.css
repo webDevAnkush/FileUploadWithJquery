@@ -1,0 +1,25 @@
+/*Created by webDevAnkush on 20/5/16.*/
+
+/*File upload with jquery Working example.Traditional way of upload file.
+Upload file with choose file input element and upload it with upload button.
+No facility of drag and drop.*/
+
+
+.content {
+    margin-top: 2%;
+}
+
+.content > .panel {
+    margin: auto 0;
+    box-shadow: 10px 10px 15px #888888;
+
+}
+
+.panel-body {
+    padding: 40px;
+}
+
+.btn, .file {
+    padding: 10px;
+    margin: 20px 10px;
+}
