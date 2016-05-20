@@ -26,4 +26,8 @@ File upload with jquery Working example.  Traditional way of upload file. Upload
 So Simple!
 
 
+*Refer this link to use fileupload with dropzoneJS 
+https://github.com/webDevAnkush/FileUploadWithDropzone
+
+
 
