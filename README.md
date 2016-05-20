@@ -27,7 +27,7 @@ So Simple!
 
 
 *Refer this link to use fileupload with dropzoneJS 
-https://github.com/webDevAnkush/FileUploadWithDropzone
+https://github.com/webDevAnkush/FileUploadWithDropzoneJS
 
 
 
